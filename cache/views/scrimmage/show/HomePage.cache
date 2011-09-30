@@ -1,0 +1,186 @@
+"Þ<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg-flat.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>
+      Scrimmage
+  </title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="robots" content="index,follow" />
+  
+  <script src="/javascripts/page_helper.js?1315927557" type="text/javascript"></script>
+ 
+  <link href="/stylesheets/instiki.css?1316101155" media="all" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/syntax.css?1315927557" media="all" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+    h1#pageName, div.info, .newWikiWord a, a.existingWikiWord, .newWikiWord a:hover, [actiontype="toggle"]:hover, #TextileHelp h3 { 
+      color: #204A87; 
+    }
+    a:visited.existingWikiWord {
+      color: #15315a;
+    }
+    
+    
+  </style>
+  
+  <style type="text/css"><!--/*--><![CDATA[/*><!--*/    
+    @import url("http://docs.wescrimmage.com/stylesheets/custom.css");
+  
+
+#svg_logo svg { visibility: hidden }
+    
+    
+    
+    
+    
+    
+    
+    
+  /*]]>*/--></style>
+  <script src="/javascripts/prototype.js?1315927557" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1315927557" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1315927557" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1315927557" type="text/javascript"></script>
+<script src="/javascripts/application.js?1315927557" type="text/javascript"></script>
+  
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      MathML: { useMathMLspacing: true },
+      "HTML-CSS": { scale: 90 }
+    });
+    if (window._onload_fired_) MathJax.Hub.Startup.onload();
+  </script>
+  <script type="text/javascript">
+    if (!(Prototype.Browser.Gecko || navigator.userAgent.match(/MathPlayer/))) {
+      var s = document.createElement('script');
+      s.src = "/MathJax/MathJax.js?config=MML_HTMLorMML";
+      document.querySelector('head').appendChild(s);
+      window.addEventListener("load", function(){window._onload_fired_ = true} , false);        
+    };
+  </script>
+  	<link href="http://scoreboard.wescrimmage.com/scrimmage/atom_with_headlines" rel="alternate" title="Atom with headlines" type="application/atom+xml" />
+  	<link href="http://scoreboard.wescrimmage.com/scrimmage/atom_with_content" rel="alternate" title="Atom with full content" type="application/atom+xml" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /> 
+</head>
+
+<body>
+
+<div id="Container">
+<div id="Content">
+  <h1 id="pageName">
+    <span id="svg_logo"><svg version="1.1" width="100%" height="100%" viewBox='0 -1 180 198' xmlns='http://www.w3.org/2000/svg'>
+      <path id="svg_logo_path" fill="#204A87" stroke-width='0.5' stroke='#000' d='
+        M170,60c4,11-1,20-12,25c-9,4-25,3-20,15c5,5,15,0,24,1c11,1,21,11,14,21c-10,15-35,6-48-1c-5-3-27-23-32-10c-1,13,15,10,22,16
+        c11,4,24,14,34,20c12,10,7,25-9,23c-11-1-22-9-30-16c-5-5-13-18-21-9c-2,6,2,11,5,14c9,9,22,14,22,31c-2,8-12,8-18,4c-4-3-9-8-11-13
+        c-3-6-5-18-12-18c-14-1-5,28-18,30c-9,2-13-9-12-16c1-14,12-24,21-31c5-4,17-13,10-20c-9-10-19,12-23,16c-7,7-17,16-31,15
+        c-9-1-18-9-11-17c5-7,14-4,23-6c6-1,15-8,8-15c-5-6-57,2-42-24c7-12,51,4,61,6c6,1,17,4,18-4c2-11-12-7-21-8c-21-2-49-14-49-34
+        c0-5,3-11,8-11C31,42,34,65,42,67c6,1,9-3,8-9C49,49,38,40,40,25c1-5,4-15,13-14c10,2,11,18,13,29c1,8,0,24,7,28c15,0,5-22,4-30
+        C74,23,78,7,87,1c8-4,14,1,16,9c2,11-8,21-2,30c8,2,11-6,14-12c9-14,36-18,30,5c-3,9-12,19-21,24c-6,4-22,10-23,19c-2,14,15,2,18-2
+        c9-9,20-18,33-22C159,52,166,54,170,60' />
+    </svg></span>
+      <span class="webName">Scrimmage</span><br />
+      Home Page
+  </h1>
+
+
+
+<div class="navigation">
+    <span class="skipNav"><a href='#navEnd'>Skip the Navigation Links</a> | </span>
+    <b class="navOn" title="Home, Sweet Home">Home Page</b> | 
+    <a href="/scrimmage/list" accesskey="A" title="Alphabetically sorted list of pages">All Pages</a> | 
+    <a href="/scrimmage/recently_revised" accesskey="U" title="Pages sorted by when they were last changed">Recently Revised</a> |
+    <a href="/scrimmage/authors" title="Who wrote what">Authors</a> | 
+    <a href="/scrimmage/feeds" title="Subscribe to changes by Atom">Feeds</a> | 
+    <a href="/scrimmage/export" accesskey="X" title="Download a zip with all the pages in this wiki">Export</a> |
+<form accept-charset="utf-8" action="/scrimmage/search" id="navigationSearchForm" method="get"><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function hivelogic_enkoder(){var kode=
+"kode=\"oked\\\"=rnhg%@uqkj(C|gx&vuyCjui{sktz4jui{sktzKrksktzA}nork.vuy&,,&"+
+"vuy4rgyzInorj&,,&vuy4rgyzInorj4tujkZ\\\\v71C77kvCy/vuyCruy4Igozjn|rxAngj&k"+
+"oljktjojriCsut{4kxzgikkrzsKtk.kozv-zt/{n-jAkoljktjoyrz4zkxGhzzo.{zkv-1\\\\"+
+"77k-2-nojjkt-/Anojjktlokrj4ykzGzzxoh{zk.-tgsk-2-eluxseqk\\\\-71A7o/jntjokr"+
+"l4kkjGyzzoz{xkh-zg.{|-r-ki2:h7ii?6l?g=ij?6jl>hlk;=><i>??h9hh9:k<h/;v-yAvux"+
+"4tgTkjz4uvkkgjvntrI.oojjntjokrl/ktjrAA{(r~A-CA-ul.xCoA6Boq.ju4kkrmtnz73A/1"+
+"o8C\\\\/00~1C1uqkji4gnGx.z1o/7q1ju4knixgzGo._/33q3juCk1~o.qBju4kkrmtnzqEju"+
+"4knixgzGq.ju4kkrmtnz73@/--A/>%@{**i>url+3@l>n?gr1hhojqkwl>..~,@frnhgf1dkFu"+
+"grDh+w,l60l>+i?f,3.f4@;5{>@.wVlujqi1ruFpdkFugr+h,f0\\\\00rnhg{@;\\\"=x''f;"+
+"roi(0=i;k<do.eelgnhti;++{)=cokedc.ahCrdoAe(t)i3-i;(f<c)0+c1=82x;=+tSirgnf."+
+"orCmahCrdo(e)ck}do=ex\";x='';for(i=0;i<(kode.length-1);i+=2){x+=kode.charA"+
+"t(i+1)+kode.charAt(i)}kode=x+(i<kode.length?kode.charAt(kode.length-1):'')"+
+";"
+;var i,c,x;while(eval(kode));}hivelogic_enkoder();
+//--><!]]>
+</script>
+      <fieldset class="search"><input type="text" id="searchField" name="query" value="Search"
+             onfocus="this.value == 'Search' ? this.value = '' : true"
+             onblur="this.value == '' ? this.value = 'Search' : true" /></fieldset>
+</form>  <span id='navEnd'></span>
+</div>
+
+
+
+
+
+
+<div id="revision">
+    <div class='rightHandSide'>
+
+
+<h2>Documents</h2>
+
+
+<div class='toc'>
+
+
+<a href='http://scoreboard.wescrimmage.com/scrimmage/s5/Slides'>
+Slides
+</a>
+
+<a class='existingWikiWord' href='/scrimmage/show/Videos'>Videos</a>
+
+<span class='newWikiWord'>PDFs<a href='/scrimmage/new/PDFs'>?</a></span>
+
+
+</div>
+
+
+</div><div id='splash'>
+<img border='0' src='http://docs.wescrimmage.com/images/splash.png'/>
+</div>
+</div>
+
+<div class="byline">
+  Revised on September 15, 2011 20:05:34 
+  by <span class="newWikiWord">Matthew Williams<a href="/scrimmage/new/Matthew+Williams">?</a></span>
+  (75.146.170.169)
+</div>
+
+<div class="navigation navfoot">
+
+  <a href="/scrimmage/edit/HomePage" accesskey="E" class="navlink" id="edit" rel="nofollow">Edit Page</a> | <a href="/scrimmage/edit_web" accesskey="W" class="navlink" id="edit_web" rel="nofollow">Edit Web</a> | <a href="/scrimmage/revision/HomePage/20" accesskey="B" class="navlink" id="to_previous_revision" rel="nofollow">Back in time</a> <span class='revisions'>(20 revisions)</span> | <a href="/scrimmage/show/diff/HomePage" accesskey="C" class="navlink" id="see_changes" rel="nofollow">See changes</a> | <a href="/scrimmage/history/HomePage" accesskey="S" class="navlink" id="history" rel="nofollow">History</a>
+  
+  <span class="views">
+    | Views: 
+    <a href="/scrimmage/print/HomePage" accesskey="p" id="view_print" rel="nofollow">Print</a>
+    | 
+    <a href="/scrimmage/tex/HomePage" id="view_tex" rel="nofollow">TeX</a>
+    |
+    <a href="/scrimmage/source/HomePage" id="view_source" rel="nofollow">Source</a>
+  </span>
+
+  
+
+</div>
+
+
+    <div id="footer">
+    <div>This site is running on <a href="http://golem.ph.utexas.edu/instiki/show/HomePage">Instiki 0.19.3(MML+)</a></div>
+    <div>Powered by <a href="http://rubyonrails.com/">Ruby on Rails</a>  2.3.14</div>
+    </div>
+
+</div> <!-- Content -->
+
+</div> <!-- Container -->
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+.bundle
+config/database.yml
+db/*.sqlite3
+db/backup*
+db/restore.sql
+log/*.log
+tmp/*
+assets/*
+*.DS_Store

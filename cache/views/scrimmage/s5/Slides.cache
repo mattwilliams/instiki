@@ -1,0 +1,89 @@
+"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg-flat.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Slides</title>
+<!-- metadata -->
+<meta name="generator" content="Instiki" />
+<meta name="version" content="0.19.3(MML+)" />
+<meta name="author" content="Matthew Williams" />
+<meta name="company" content="" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link href="/stylesheets/syntax.css?1315927557" id="syntaxStyle" media="all" rel="stylesheet" type="text/css" />
+<link href="/s5/ui/core/outline.css?1315927557" id="outlineStyle" media="screen" rel="stylesheet" type="text/css" />
+<link href="/s5/ui/core/print.css?1315927557" id="slidePrint" media="print" rel="stylesheet" type="text/css" />
+<link href="/s5/ui/core/opera.css?1315927557" id="operaFix" media="projection" rel="stylesheet" type="text/css" />
+<link href="/s5/ui/core/math.css?1315927557" id="mathStyle" media="all" rel="stylesheet" type="text/css" />
+<link href="/s5/themes/default/slides.css?1315927557" id="slideProj" media="projection" rel="stylesheet" type="text/css" />
+
+<!-- S5 JS -->
+<script src="/javascripts/prototype.js?1315927557" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    MathML: { useMathMLspacing: true },
+    "HTML-CSS": { scale: 90 }
+  });
+  if (window._onload_fired_) MathJax.Hub.Startup.onload();
+</script>
+<script type="text/javascript">
+  if (!(Prototype.Browser.Gecko || navigator.userAgent.match(/MathPlayer/))) {
+    var s = document.createElement('script');
+    s.src = "/MathJax/MathJax.js?config=MML_HTMLorMML";
+    document.querySelector('head').appendChild(s);        
+    window.addEventListener("load", function(){window._onload_fired_ = true} , false);        
+  };
+</script>
+<script src="/s5/ui/core/slides.js?1315927557" type="text/javascript"></script>
+</head>
+<body>
+
+<div>
+  <div class='layout'>
+		<div id='controls'> </div>
+		<div id='currentSlide'> </div>
+		<div id='header'> </div>
+		<div id='footer'>
+		<h1>Scrimmage</h1>
+		<h2>September 1, 2011</h2>
+		</div>
+		<div class='topleft'> </div>
+		<div class='topright'> </div>
+		<div class='bottomleft'> </div>
+		<div class='bottomright'> </div>
+		</div>
+  <div class='presentation'>
+    <div class='slide'>
+	  <h1> Playbook Themes</h1>
+	  <h2> Skinning your Playbook App</h2>
+	  <h3> Matthew Williams</h3>
+	  <h4> Scrimmage, LLC</h4>
+	  </div>
+    <div class='slide'><h1>Choosing a color scheme</h1>
+<ul>
+<li>Enter your company colors into the Playbook admin.</li>
+
+<li>Upload your company logo into the Playbook admin.</li>
+</ul>
+<div style='float: left; padding: 30px 120px;'><img src='http://docs.wescrimmage.com/images/pbTheme.png'/></div></div>
+    <div class='slide'><h1>Creating a Quiz Activity</h1>
+<ul>
+<li>Deciding on the questions format.</li>
+</ul>
+<div style='float: left; padding: 30px 120px;'><img src='http://docs.wescrimmage.com/images/pbQuestions.png'/></div></div>
+    <div class='slide'><h1>Conclusions</h1>
+<ol>
+<li>Don’t bore them.</li>
+
+<li><em>Do</em> use Instiki+S5.</li>
+</ol>
+
+<p><a href='http://docs.wescrimmage.com'>Return Home</a></p>
+</div>
+  </div>
+</div>
+
+</body>
+</html>
